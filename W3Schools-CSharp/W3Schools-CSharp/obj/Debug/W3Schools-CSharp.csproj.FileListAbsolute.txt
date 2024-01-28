@@ -1,1 +1,6 @@
 D:\W3Schools-C#\W3Schools-CSharp\W3Schools-CSharp\bin\Debug\W3Schools-CSharp.exe.config
+D:\W3Schools-C#\W3Schools-CSharp\W3Schools-CSharp\bin\Debug\W3Schools-CSharp.exe
+D:\W3Schools-C#\W3Schools-CSharp\W3Schools-CSharp\bin\Debug\W3Schools-CSharp.pdb
+D:\W3Schools-C#\W3Schools-CSharp\W3Schools-CSharp\obj\Debug\W3Schools-CSharp.csprojResolveAssemblyReference.cache
+D:\W3Schools-C#\W3Schools-CSharp\W3Schools-CSharp\obj\Debug\W3Schools-CSharp.exe
+D:\W3Schools-C#\W3Schools-CSharp\W3Schools-CSharp\obj\Debug\W3Schools-CSharp.pdb
