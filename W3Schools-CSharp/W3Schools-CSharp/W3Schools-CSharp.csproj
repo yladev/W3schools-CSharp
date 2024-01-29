@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>W3Schools_CSharp.clsVariables</StartupObject>
+    <StartupObject>W3Schools_CSharp.clsDataType</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="clsDataType.cs" />
     <Compile Include="clsVariables.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
